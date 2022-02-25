@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarieObi
-- 👀 I’m interested in all things Tech and Software development.
+- 👀 I’m a Junior FullStack Developer & interested in all things Tech and Software development.
 - 🌱 I’m currently learning HTML, CSS, Javascript and Python programming languages alongside Fullstack Engineering priciples.
 - 💞️ I’m looking to collaborate on Entry-level software development projects to help me progress and develop my skills.
 - 📫 How to reach me:
